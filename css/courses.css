@@ -1,0 +1,45 @@
+.boxy
+{
+    padding: 5px;
+    border: 2px solid rgb(95, 2, 93);
+    border-radius: 15px;
+    width: 95%;
+    margin: 20px auto ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.minihead
+{
+    margin-bottom: 10px;
+}
+
+.boxy div > p
+{
+    font-size: 1.250em;
+    color: rgb(43, 0, 49);
+}
+
+.boxy div > a
+{
+    margin-left: 70%;
+    font-size: 1.250em;
+    color: rgb(99, 0, 112);
+    border: 1px solid rgb(95, 2, 93);
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px;
+    background-color: rgb(250, 218, 255);
+}
+
+.boxy > div
+{
+    padding: 10px;
+    border: 1px solid rgb(95, 2, 93);
+    width: 340px;
+    border-radius: 15px;
+}
+.list > img
+{
+    width: 100%;
+}

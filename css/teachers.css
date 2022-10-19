@@ -1,0 +1,22 @@
+.boxy
+{
+    padding: 5px;
+    border: 2px solid rgb(95, 2, 93);
+    border-radius: 15px;
+    width: 95%;
+    margin: 20px auto ;
+    display: flex;
+}
+
+.info
+{
+    margin-top: 30px;
+}
+
+.info p
+{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: rgb(28, 0, 30);
+}

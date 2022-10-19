@@ -1,0 +1,61 @@
+body
+{
+    background: url("../images/background.png");
+    background-size: 100%;
+}
+
+div
+{
+    width: 458px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.h1
+{
+    font-size: 4.000em;
+    text-align: center;
+    color: rgb(58, 0, 66);
+}
+
+.block1 input, a
+{
+    width: 100%;
+    height: 50px;
+    display: block;
+    border: none;
+    padding: 10px 15px;
+    border: 2px solid rgb(58, 0, 66);
+    border-radius: 50px;
+    margin-bottom: 15px;
+    font-size: 1.500em;
+
+}
+
+.block1 > select
+{
+    margin-left: 15px;
+    width: 100%;
+    height: 50px;
+    font-size: 1.500em;
+}
+
+.block1 a
+{
+    text-align: center;
+    font-size: 1.750em;
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-right: 3px;
+    margin-left: 3px;
+    background-color: rgb(58, 0, 66);
+}
+
+.d-flex
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
