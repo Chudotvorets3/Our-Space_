@@ -1,0 +1,105 @@
+/*
+>= 1200
+992 - 1199
+768 -991
+576 - 768
+460 - 576
+414 - 460
+375 - 414
+320 - 375
+*/
+
+@media screen and (max-width: 992px) 
+{
+    .logo
+    {
+        max-width: 125px;
+        max-height: 125px;
+    }
+
+}
+
+@media screen and (max-width: 958px) 
+{
+    header .container .menu a
+    {
+    margin: 0px 10px;
+    }
+}
+
+@media screen and (max-width: 878px) 
+{
+    header .container
+    {
+        flex-wrap: wrap;
+    }
+
+    .d-flex
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header .container .menu a
+    {
+    margin: 0px 30px;
+    }
+
+    header .search
+    {
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    footer .right
+    {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width: 825px) 
+{
+    header .container .menu a
+    {
+    margin: 0px 20px;
+    }
+
+    footer .left nav
+    {
+    margin-left: 50px;
+    }
+}
+
+@media screen and (max-width: 741px) 
+{
+    footer .container
+    {
+        flex-wrap: wrap;
+    }
+
+    footer .left nav
+    {
+    margin-left: 200px;
+    }
+
+    footer .right form
+    {
+        margin-top: 40px;
+    }
+
+    footer .copyrights
+    {
+    margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 1199px) 
+{
+    
+}
+
+@media screen and (max-width: 1199px) 
+{
+    
+}
