@@ -1,0 +1,38 @@
+.block
+{
+    display: flex;
+}
+
+.text
+{
+    width: 60%;
+    margin-left: 30px;
+}
+
+.font
+{
+    font-size: 1.250em;
+}
+
+.photo
+{
+    margin-left: 10px;
+    width: 40%;
+    margin-right: 30px;
+}
+
+.block2
+{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.list .block2 > p
+{
+    margin: 0 30px;
+}
+
+.list .block3 > p
+{
+    text-align: center;
+}
